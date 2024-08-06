@@ -1,0 +1,161 @@
+#p1 {
+    
+    width: 90%;
+    height: auto;
+    margin: 6% auto;
+    padding: 20px;
+   display: flex;
+   flex: 12;
+}
+#p1 .title{
+    padding: 40px;
+    color:black;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom: 3px black solid;
+}
+#p1 .t1{
+    padding: 40px;
+    color:black;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom: 3px black solid
+}
+#p2 {
+    
+    width: 90%;
+    height: auto;
+    margin: 6% auto;
+    padding: 20px;
+   display: flex;
+   flex: 12;
+}
+#p2 .title2{
+    padding: 40px;
+    color:black;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom: 3px black solid;
+}
+#p2 .t2{
+    padding: 40px;
+    color:black;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom: 3px black solid
+}
+#p3 {
+    width: 90%;
+    height: auto;
+    margin: 6% auto;
+    padding: 20px;
+   display: flex;
+   flex: 12;
+}
+#p3 .title3{
+    padding: 40px;
+    color:black;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom: 3px black solid;
+}
+#p3 .t3{
+    padding: 40px;
+    color:black;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom: 3px black solid
+}
+#hola{
+    display: flex;
+    background-color: #87BCDE;
+    
+}
+
+section{
+    margin-bottom: 10px;
+    flex: 5;
+}
+legend {
+  
+    padding: 5px;
+    font-weight: bold;
+
+}
+
+#foto {
+    display: flex;
+    margin: 5px;
+    border: solid 3px black
+}
+h2{
+    flex:5;
+
+}
+
+body {
+    background-size: 100%;
+    
+}
+#hola2 .sub {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bolder;
+    font-size: large;
+    margin-right: 20px ;
+}
+#hola2 .uno{
+   
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: large;
+ }
+ p {
+    
+    
+    font-weight: bolder;
+    font-size: large;
+    display: inline;
+    margin-right: 20px;
+
+
+} 
+.uno, .p1 {
+    display: inline;
+}
+.dos, .tres, .cuatro, .p2, .p3, .p4 {
+    display: inline;
+}
+.t, .t7, .t2, .t3 {
+    color: black;
+    font-weight: bolder;
+    font-size: 1.2rem;
+}
+.de, .da, .dr, .dt, .dy, .d5 {
+    display: inline;
+    font-size: 1.2rem;
+}
+.to {
+    color: black;
+    font-size: 1.2rem;
+}
+footer {
+    color: black;
+    font-weight: bolder;
+    border-bottom: 3px black solid;
+    text-align: center;
+ 
+}
